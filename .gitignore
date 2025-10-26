@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+/frontend/build/
+.env
+.env.local
+
+# Maven
+/backend/target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+
+# System Files
+.DS_Store
+Thumbs.db
